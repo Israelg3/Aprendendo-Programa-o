@@ -16,7 +16,7 @@ int main(){
 
         media = (nota1 + nota2 + nota3) / 3 ;
     
-        printf("A média do aluno é: %f", media);
+        printf("A média do aluno é: %.2f", media);
 
     return 0;
 }
