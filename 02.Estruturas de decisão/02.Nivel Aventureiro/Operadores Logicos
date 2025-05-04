@@ -1,0 +1,20 @@
+//Introdução aos operadores lógicos: &&, ||, !
+
+//E Lógico (&&)
+
+//if (a > 0 && b > 0) {
+//    printf("Ambos são positivos.\n");
+//  }
+
+  //OU Lógico (II)
+
+//  if (a > 0 || b > 0) {
+//   printf("Pelo menos um é positivo.\n");
+//  }
+
+  //NÃO Lógico (!)
+
+//  if (!a) {
+//    printf("a é zero.\n");
+//  }
+
